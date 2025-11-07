@@ -28,3 +28,9 @@ openai
 streamlit-aggrid
 streamlit-extras
 scikit-learn
+
+# ML and Embeddings
+sentence-transformers
+torch
+faiss-cpu
+transformers
