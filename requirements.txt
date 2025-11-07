@@ -7,9 +7,7 @@ forex-python
 requests
 beautifulsoup4
 jinja2
-langchain
-groq
-prophet 
+prophet
 
 # LangChain stack for PDF loading + Groq (no heavy torch/transformers)
 langchain==0.2.17
@@ -20,4 +18,3 @@ pypdf
 
 # If you actually use FAISS index files:
 faiss-cpu
-
