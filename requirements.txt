@@ -27,3 +27,4 @@ streamlit-chat
 openai
 streamlit-aggrid
 streamlit-extras
+scikit-learn
