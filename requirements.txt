@@ -18,3 +18,12 @@ pypdf
 
 # If you actually use FAISS index files:
 faiss-cpu
+
+deep-translator
+gTTS
+speechrecognition
+python-dotenv
+streamlit-chat
+openai
+streamlit-aggrid
+streamlit-extras
