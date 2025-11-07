@@ -15,6 +15,7 @@ langchain-community==0.2.17
 langchain-groq==0.1.4
 groq
 pypdf
+openpyxl
 
 # If you actually use FAISS index files:
 faiss-cpu
