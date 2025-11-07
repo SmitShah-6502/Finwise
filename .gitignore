@@ -1,0 +1,8 @@
+# .gitignore
+.env
+.streamlit/
+__pycache__/
+*.pkl
+*.h5
+*.pt
+*.ckpt
