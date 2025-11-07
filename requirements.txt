@@ -6,3 +6,4 @@ langchain
 pdfkit
 jinja2
 groq
+prophet 
